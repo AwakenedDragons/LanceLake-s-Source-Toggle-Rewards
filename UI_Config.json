@@ -1,12 +1,5 @@
 {
   "output_file": "settings.json",
-  "Username": {
-    "type": "textbox",
-    "value": "",
-    "label": "Channel Username",
-    "tooltip": "Username of the channel this will interact with.",
-    "group": "Main"
-  },
   "OauthToken": {
     "type": "textbox",
     "value": "",
